@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@0x4xel](https://medium.com/@0x4xel)
 
-- 📄 Know about my experiences  **Fullstack developer, cyber security consultant**
+- 📄 Know about my experiences  **Fullstack Developer, Cyber Security consultant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
