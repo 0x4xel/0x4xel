@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
-<h3 align="center">Pentester | OSCP in progress</h3>
+<h3 align="center">Pentester | OSCP</h3>
 
 - 🔭 I’m currently working on **pentesting**
 
-- 🌱 I’m currently learning **eCCPTv2, OSCP**
+- 🌱 I’m currently learning **eCCPTv2**
 
 - 📝 I regularly write articles on [https://medium.com/@0x4xel](https://medium.com/@0x4xel)
 
