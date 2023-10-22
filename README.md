@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
-<h3 align="center">Pentester | OSCP | CRTP | CRTO | CARTP | eCCPTv2</h3>
+<h3 align="center">Pentester | OSEP| OSCP | CRTP | CRTO | CARTP | CHMRTS | eCCPTv2</h3>
 
 - 🔭 I’m currently working on **pentesting**
 
